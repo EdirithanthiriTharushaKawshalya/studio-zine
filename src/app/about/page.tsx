@@ -10,18 +10,18 @@ export default function AboutPage() {
         <div>
           <h1 className="text-4xl font-bold mb-4">About the Photographer</h1>
           <p className="text-muted-foreground mb-6">
-            With over 10 years of experience capturing life's most precious moments, I bring a unique perspective and
+            With over 10 years of experience capturing life&apos;s most precious moments, I bring a unique perspective and
             technical expertise to every photoshoot.
           </p>
           <p className="mb-6">
             My journey in photography began when I was gifted my first camera at the age of 16. What started as a hobby
-            quickly developed into a passion, and eventually, a fulfilling career. I've had the privilege of working
+            quickly developed into a passion, and eventually, a fulfilling career. I&apos;ve had the privilege of working
             with clients from all walks of life, from couples celebrating their wedding day to businesses looking to
             elevate their brand imagery.
           </p>
           <p className="mb-6">
             My approach to photography is centered around authenticity and storytelling. I believe that the best images
-            capture not just how something looks, but how it feels. Whether I'm shooting a portrait, an event, or a
+            capture not just how something looks, but how it feels. Whether I&apos;m shooting a portrait, an event, or a
             landscape, I strive to create images that evoke emotion and tell a compelling story.
           </p>
           <Button asChild>
@@ -133,7 +133,7 @@ export default function AboutPage() {
       <div className="text-center">
         <h2 className="text-3xl font-bold mb-6">Ready to Work Together?</h2>
         <p className="max-w-2xl mx-auto mb-8">
-          I'd love to discuss your photography needs and how I can help bring your vision to life.
+          I&apos;d love to discuss your photography needs and how I can help bring your vision to life.
         </p>
         <Button asChild size="lg">
           <Link href="/contact">Contact Me</Link>

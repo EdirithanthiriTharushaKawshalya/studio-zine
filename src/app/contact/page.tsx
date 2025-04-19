@@ -50,7 +50,7 @@ export default function ContactPage() {
     <div className="container mx-auto py-12 px-4 md:px-6">
       <h1 className="text-4xl font-bold mb-2">Contact Me</h1>
       <p className="text-muted-foreground mb-8 max-w-3xl">
-        Have a project in mind or want to discuss your photography needs? Get in touch and let's create something
+        Have a project in mind or want to discuss your photography needs? Get in touch and let&apos;s create something
         amazing together.
       </p>
 

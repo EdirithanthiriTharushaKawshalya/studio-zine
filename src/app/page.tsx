@@ -143,22 +143,22 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <div className="bg-card p-6 rounded-lg shadow-sm">
               <p className="italic mb-4">
-                "Working with this photographer was an absolute pleasure. They captured our wedding day perfectly and
-                delivered photos that we'll cherish forever."
+              &quot;Working with this photographer was an absolute pleasure. They captured our wedding day perfectly and
+                delivered photos that we&apos;ll cherish forever.&quot;
               </p>
               <p className="font-semibold">- Sarah & John</p>
             </div>
             <div className="bg-card p-6 rounded-lg shadow-sm">
               <p className="italic mb-4">
-                "The product photography for our e-commerce store has significantly increased our conversion rates.
-                Highly professional and creative work."
+              &quot;The product photography for our e-commerce store has significantly increased our conversion rates.
+                Highly professional and creative work.&quot;
               </p>
               <p className="font-semibold">- Mark, CEO of Brand Co.</p>
             </div>
             <div className="bg-card p-6 rounded-lg shadow-sm">
               <p className="italic mb-4">
-                "My family portraits turned out better than I could have imagined. The attention to detail and ability
-                to make everyone feel comfortable was impressive."
+              &quot;My family portraits turned out better than I could have imagined. The attention to detail and ability
+                to make everyone feel comfortable was impressive.&quot;
               </p>
               <p className="font-semibold">- Emily R.</p>
             </div>
@@ -171,7 +171,7 @@ export default function Home() {
         <div className="container mx-auto text-center">
           <h2 className="text-3xl font-bold mb-4">Ready to Capture Your Story?</h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
-            Let's discuss your photography needs and create something beautiful together.
+            Let&apos;s discuss your photography needs and create something beautiful together.
           </p>
           <Button asChild size="lg" variant="secondary">
             <Link href="/contact">Contact Me</Link>
@@ -185,7 +185,7 @@ export default function Home() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="mb-6 md:mb-0">
               <h3 className="text-2xl font-bold">STUDIO ZINE</h3>
-              <p className="text-muted-foreground mt-2">Capturing life's precious moments</p>
+              <p className="text-muted-foreground mt-2">Capturing life&apos;s precious moments</p>
             </div>
             <div className="flex gap-4">
               <Button variant="ghost" size="icon" aria-label="Instagram">

@@ -259,7 +259,7 @@ export default function ServicesPage() {
       <section className="py-16 px-4 md:px-6 bg-muted">
         <div className="container mx-auto">
           <div className="max-w-3xl mx-auto text-center mb-12">
-            <h2 className="text-3xl font-bold mb-4">What's Included</h2>
+            <h2 className="text-3xl font-bold mb-4">What&apos;s Included</h2>
             <p className="text-muted-foreground">
               All our photography services include these standard features to ensure you receive the highest quality
               experience and results.
@@ -328,7 +328,7 @@ export default function ServicesPage() {
                     <h3 className="text-xl font-semibold mb-2">Initial Consultation</h3>
                     <p className="text-muted-foreground">
                       We begin with a detailed discussion about your vision, requirements, and preferences to ensure
-                      we're aligned.
+                      we&apos;re aligned.
                     </p>
                   </div>
                 </div>
@@ -373,7 +373,7 @@ export default function ServicesPage() {
                   <div>
                     <h3 className="text-xl font-semibold mb-2">Delivery & Follow-Up</h3>
                     <p className="text-muted-foreground">
-                      We deliver your final images and ensure you're completely satisfied with the results.
+                      We deliver your final images and ensure you&apos;re completely satisfied with the results.
                     </p>
                   </div>
                 </div>
@@ -420,7 +420,7 @@ export default function ServicesPage() {
               <AccordionItem value="item-3">
                 <AccordionTrigger>How long until I receive my photos?</AccordionTrigger>
                 <AccordionContent>
-                  For portrait sessions, you'll receive your edited images within 1-2 weeks. Wedding photos are
+                  For portrait sessions, you&apos;ll receive your edited images within 1-2 weeks. Wedding photos are
                   typically delivered within 4-6 weeks. Commercial projects have varying timelines based on complexity
                   and are discussed during the consultation.
                 </AccordionContent>
@@ -438,7 +438,7 @@ export default function ServicesPage() {
                 <AccordionContent>
                   We provide detailed guidance on wardrobe choices during your pre-shoot consultation. Generally, we
                   recommend wearing solid colors, avoiding busy patterns, and coordinating (but not matching exactly)
-                  for group photos. We're happy to review your outfit choices before the session.
+                  for group photos. We&apos;re happy to review your outfit choices before the session.
                 </AccordionContent>
               </AccordionItem>
               <AccordionItem value="item-6">
